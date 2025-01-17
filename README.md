@@ -22,7 +22,7 @@ This command is used to install all the required dependecies which is necessary 
 
 
 You can follow the given link to browse over the website.
-This is the link for the backend code of this application - https://github.com/Abhibhava/I-Vote-Backend
+This is the link for the backend code of this application - https://github.com/Sankalpg29/I-Vote-Backend
 
 # I-Vote-FrontEnd
 This is the frontend folder of the I-Vote MERN web application
